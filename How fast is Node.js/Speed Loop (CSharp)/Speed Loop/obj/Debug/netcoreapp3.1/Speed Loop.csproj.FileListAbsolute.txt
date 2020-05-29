@@ -1,0 +1,25 @@
+E:\Programmazione\Speed Loop\Speed Loop\bin\Debug\netcoreapp3.1\Speed Loop.exe
+E:\Programmazione\Speed Loop\Speed Loop\bin\Debug\netcoreapp3.1\Speed Loop.deps.json
+E:\Programmazione\Speed Loop\Speed Loop\bin\Debug\netcoreapp3.1\Speed Loop.runtimeconfig.json
+E:\Programmazione\Speed Loop\Speed Loop\bin\Debug\netcoreapp3.1\Speed Loop.runtimeconfig.dev.json
+E:\Programmazione\Speed Loop\Speed Loop\bin\Debug\netcoreapp3.1\Speed Loop.dll
+E:\Programmazione\Speed Loop\Speed Loop\bin\Debug\netcoreapp3.1\Speed Loop.pdb
+E:\Programmazione\Speed Loop\Speed Loop\obj\Debug\netcoreapp3.1\Speed Loop.AssemblyInfoInputs.cache
+E:\Programmazione\Speed Loop\Speed Loop\obj\Debug\netcoreapp3.1\Speed Loop.AssemblyInfo.cs
+E:\Programmazione\Speed Loop\Speed Loop\obj\Debug\netcoreapp3.1\Speed Loop.csproj.CoreCompileInputs.cache
+E:\Programmazione\Speed Loop\Speed Loop\obj\Debug\netcoreapp3.1\Speed Loop.dll
+E:\Programmazione\Speed Loop\Speed Loop\obj\Debug\netcoreapp3.1\Speed Loop.pdb
+E:\Programmazione\Speed Loop\Speed Loop\obj\Debug\netcoreapp3.1\Speed Loop.genruntimeconfig.cache
+E:\Programmazione\Speed Loop\bin\Debug\netcoreapp3.1\Speed Loop.exe
+E:\Programmazione\Speed Loop\bin\Debug\netcoreapp3.1\Speed Loop.deps.json
+E:\Programmazione\Speed Loop\bin\Debug\netcoreapp3.1\Speed Loop.runtimeconfig.json
+E:\Programmazione\Speed Loop\bin\Debug\netcoreapp3.1\Speed Loop.runtimeconfig.dev.json
+E:\Programmazione\Speed Loop\bin\Debug\netcoreapp3.1\Speed Loop.dll
+E:\Programmazione\Speed Loop\bin\Debug\netcoreapp3.1\Speed Loop.pdb
+E:\Programmazione\Speed Loop\obj\Debug\netcoreapp3.1\Speed Loop.csprojAssemblyReference.cache
+E:\Programmazione\Speed Loop\obj\Debug\netcoreapp3.1\Speed Loop.AssemblyInfoInputs.cache
+E:\Programmazione\Speed Loop\obj\Debug\netcoreapp3.1\Speed Loop.AssemblyInfo.cs
+E:\Programmazione\Speed Loop\obj\Debug\netcoreapp3.1\Speed Loop.csproj.CoreCompileInputs.cache
+E:\Programmazione\Speed Loop\obj\Debug\netcoreapp3.1\Speed Loop.dll
+E:\Programmazione\Speed Loop\obj\Debug\netcoreapp3.1\Speed Loop.pdb
+E:\Programmazione\Speed Loop\obj\Debug\netcoreapp3.1\Speed Loop.genruntimeconfig.cache
